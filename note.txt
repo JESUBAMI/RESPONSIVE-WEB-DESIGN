@@ -1,0 +1,22 @@
+Responsivesness simply means making your website display accurately on all screen sizes
+
+@media screen and (max-width:480px)
+
+Break point for CSS media query
+there is max width and min-width
+
+min-width 0px or screen
+max-width 480px
+
+min-width 481px
+
+
+
+
+0-480: Smaller smartphones
+
+481-768:Tablets & larger smartphones
+
+769-1279:laptops,larger tablets in landscape and small desktops
+
+1280:larger desktops & monitors
